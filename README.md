@@ -1,1 +1,1 @@
-# morellimedical
+# morelli-medical-shopify-theme
