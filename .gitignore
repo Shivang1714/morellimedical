@@ -1,0 +1,7 @@
+# Don't track the following files
+.vscode/
+
+# Ignore vim files:
+*~
+*.swp
+*.swo

@@ -1,0 +1,150 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><strong>Free Shipping On Orders Over $200+ ⚕️ No Sales Tax ⚕️ Lowest Prices Online</strong></p>"
+          }
+        },
+        "announcement_XMekNN": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use Code <strong>LUCKY5</strong> For 5% OFF Your First Order</p>"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1",
+        "announcement_XMekNN"
+      ],
+      "settings": {
+        "link1": "",
+        "link1_label": "",
+        "link2": "",
+        "link2_label": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "bg_color": "#041426",
+        "text_color": "#ffffff",
+        "text_type_scale": "large",
+        "read_time": 6
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "4afd3f01-66bb-43db-9b45-4afebd5d681a": {
+          "type": "pills",
+          "settings": {
+            "title": "jkb",
+            "collection_images": "large",
+            "collection_use_product_image": false,
+            "promo_position": "bottom",
+            "promo_min_height": 200,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 0,
+            "promo1_content": "",
+            "promo1_link_url": "",
+            "promo1_text_size": 16,
+            "promo1_text_width": 100,
+            "promo1_text_alignment": "justify-center items-center text-center",
+            "promo2_content": "",
+            "promo2_link_url": "",
+            "promo2_text_size": 16,
+            "promo2_text_width": 100,
+            "promo2_text_alignment": "justify-center items-center text-center",
+            "promo3_content": "",
+            "promo3_link_url": "",
+            "promo3_text_size": 16,
+            "promo3_text_width": 100,
+            "promo3_text_alignment": "justify-center items-center text-center"
+          }
+        }
+      },
+      "block_order": [
+        "4afd3f01-66bb-43db-9b45-4afebd5d681a"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "mobile_menu_position": "burger-left",
+        "logo_text": "",
+        "logo_type_scale": "3",
+        "logo": "shopify://shop_images/rsz_morelli_41877a0b-3680-48c7-9373-baad6629a818.png",
+        "logo_width": 250,
+        "logo_h1": true,
+        "logo_center": false,
+        "enable_search": true,
+        "minimise_search_mobile": false,
+        "minimise_search_desktop": false,
+        "menu": "main-menu",
+        "menu_center": true,
+        "repeat_links": true,
+        "menu_featured_link": "Sale",
+        "quicklinks_menu": "",
+        "cta_show": true,
+        "cta_icon": "phone",
+        "cta_label": "Talk with an Expert 866-338-2838",
+        "cta_link": "tel:+18663382838",
+        "cta_border_color": "rgba(0,0,0,0)",
+        "cta_bg_color": "#0f52ba",
+        "cta_text_color": "#ffffff",
+        "bg_color": "#ffffff",
+        "text_color": "#070707",
+        "accent_color": "#0f52ba"
+      }
+    },
+    "promo_strip_H6qzcN": {
+      "type": "promo-strip",
+      "blocks": {
+        "text_LMhf6n": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>🍀 St. Patrick’s Day Sale </strong>🔴 <strong>ADD TO CART TO SEE SAVINGS </strong>🔴<strong> While Supplies Last 🎊</strong></p>",
+            "enlarge_text": false,
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "discount_CNhqiE": {
+          "type": "discount",
+          "disabled": true,
+          "settings": {
+            "discount_code": "ATA"
+          }
+        }
+      },
+      "block_order": [
+        "text_LMhf6n",
+        "discount_CNhqiE"
+      ],
+      "settings": {
+        "section_height": "xsmall",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header",
+    "promo_strip_H6qzcN"
+  ]
+}
